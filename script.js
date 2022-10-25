@@ -8,3 +8,8 @@ function SomaDosNumeros() {
     var soma = num1 + num2;
     return soma;
 }
+
+function SubtracaoDosNumeros() {
+    var sub = num1 - num2;
+    return sub;
+}
