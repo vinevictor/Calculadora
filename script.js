@@ -18,3 +18,8 @@ function MutiplicacaoDosNumeros() {
     var mult = num1 * num2;
     return mult;
 }
+
+function DivisaoDosNumeros() {
+    var div = num1 / num2;
+    return div;
+}
