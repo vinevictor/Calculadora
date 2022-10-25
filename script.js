@@ -13,3 +13,8 @@ function SubtracaoDosNumeros() {
     var sub = num1 - num2;
     return sub;
 }
+
+function MutiplicacaoDosNumeros() {
+    var mult = num1 * num2;
+    return mult;
+}
